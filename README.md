@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="YOUR_WEB_LOGO_IMAGE_LINK_HERE" width="180" alt="Web_With_Kate logo" />
-</p>
+  <img src="kate_github_profile.jpg" width="160" alt="Kate profile photo" />
 
 <h1 align="center">Web_With_Kate</h1>
 <p align="center">
