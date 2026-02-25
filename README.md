@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="kate_github_profile.jpg" width="160" alt="Kate profile photo" />
-
+  <p align="center">
+  <img src="webwithkatebanner.png" width="100%" />
+</p>
 <h1 align="center">Web_With_Kate</h1>
 <p align="center">
   <strong>Future Front-End Developer</strong> • UI/UX • Clean, accessible design
