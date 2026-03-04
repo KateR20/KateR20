@@ -1,13 +1,15 @@
 <p align="center">
   <img src="webwithkatebanner.png" width="650">
 </p>
+
 <h1 align="center">Web_With_Kate</h1>
+
 <p align="center">
-  <strong>Future Front-End Developer</strong> • UI/UX • Clean, accessible design
+<strong>Future Front-End Developer</strong> • UI/UX • Clean, accessible design
 </p>
 
 <p align="center">
-  🇬🇧 Welsh-born • 🇨🇦 Canada • 🐶 Dog lover • 💻 VS Code + Git
+🇬🇧 Welsh-born • 🇨🇦 Canada • 🐶 Dog lover • 💻 VS Code + Git
 </p>
 
 ---
