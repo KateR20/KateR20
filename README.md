@@ -1,8 +1,5 @@
 <p align="center">
-  <p align="center">
- <p align="center">
-  <img src="webwithkatebanner.png" width="650" />
-</p>
+  <img src="webwithkatebanner.png" width="650">
 </p>
 <h1 align="center">Web_With_Kate</h1>
 <p align="center">
