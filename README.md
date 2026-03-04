@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="webwithkatebanner.png" width="900">
+ <img src="webwithkatebanner.png" width="900" alt="Web With Kate spider web logo banner">
 </p>
 
 <h1 align="center">Web_With_Kate</h1>
