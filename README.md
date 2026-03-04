@@ -2,7 +2,7 @@
 <img src="banner.png" width="850" alt="Building clean, accessible web experiences banner">
 </p>
 
-<h1 align="center">Web_With_Kate</h1>
+<h1 align="center"><h1 align="center">Welcome to my developer portfolio</h1></h1>
 
 <p align="center">
 <strong>Future Front-End Developer</strong> • UI/UX • Clean, accessible design
