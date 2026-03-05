@@ -10,7 +10,7 @@ Front-End Developer in Training | Web_With_Kate
 👩‍💻 Web Development student at triOS College  
 🐶 Dog lover (Shaggy approved)  
 🎨 Passionate about UI/UX and clean, accessible design  
-
+HTML | CSS | JavaScript | Git | GitHub | VS Code | Figma
 ## Currently Learning
 - HTML
 - CSS
