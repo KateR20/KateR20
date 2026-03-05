@@ -2,7 +2,7 @@
 
 # Hi, I'm Kate 👋
 
-Front-End Developer in Training | Web_With_Kate# Hi, I'm Kate 👋
+
 
 Front-End Developer in Training | Web_With_Kate
 
