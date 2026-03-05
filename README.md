@@ -1,4 +1,8 @@
+![Web_With_Kate Banner](Web%20design%20banner%20with%20spider%20web.png)
+
 # Hi, I'm Kate 👋
+
+Front-End Developer in Training | Web_With_Kate# Hi, I'm Kate 👋
 
 Front-End Developer in Training | Web_With_Kate
 
