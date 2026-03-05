@@ -1,51 +1,29 @@
-<p align="center">
-<img src="banner.png" width="850" alt="Building clean, accessible web experiences banner">
-</p>
+# Hi, I'm Kate 👋
 
-<h1 align="center"><h1 align="center">Welcome to my developer portfolio</h1></h1>
+Front-End Developer in Training | Web_With_Kate
 
-<p align="center">
-<strong>Future Front-End Developer</strong> • UI/UX • Clean, accessible design
-</p>
+🇬🇧 Welsh-born living in Canada since 2005  
+👩‍💻 Web Development student at triOS College  
+🐶 Dog lover (Shaggy approved)  
+🎨 Passionate about UI/UX and clean, accessible design  
 
-<p align="center">
-🇬🇧 Welsh-born • 🇨🇦 Canada • 🐶 Dog lover • 💻 VS Code + Git
-</p>
+## Currently Learning
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- Responsive design
+- Figma to code workflows
 
----
+## Current Projects
+- Personal Portfolio Website
+- Git Workflow Assignments
+- Shaggy's PawPrint Planner
+- Smart Pet Feeder
 
-## 👋 About Me
-
-Hi, I’m Kate — a web development student building a modern, user-friendly portfolio one project at a time.  
-I love clean layouts, thoughtful details, and design that feels welcoming.
-
-**Right now I’m focused on:**  
-- Responsive layouts + polished UI
-- Git/GitHub workflows (branches, issues, PRs)
-- Turning Figma designs into real websites
-
----
-
-## 🧰 Tools & Skills
-
-**Front-end:** HTML • CSS • JavaScript  
-**Design:** Figma • UI/UX fundamentals  
-**Workflow:** Git • GitHub • VS Code
+## Goals
+Build modern, accessible websites and grow into a professional front-end developer.
 
 ---
 
-## ✨ Featured Projects
-
-- 🌐 **Portfolio Website:** https://github.com/KateR20/portfolio-website  
-- 🧪 **Git Practice (workflows):** https://github.com/KateR20/Git-Practice
-
----
-
-## 📫 Let’s connect
-
-- GitHub: https://github.com/KateR20
-- (Add LinkedIn/website when ready)
-
-<p align="center">
-  <sub>Creative. Clean. Professional. Classy. 🕸️</sub>
-
+© 2026 Kate Redman | Web_With_Kate
