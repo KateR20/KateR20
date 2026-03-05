@@ -3,8 +3,8 @@
 # Hi, I'm Kate 👋
 
 
-
 Front-End Developer in Training | Web_With_Kate
+
 💻 Currently building my developer portfolio one project at a time
 🇬🇧 Welsh-born living in Canada since 2005  
 👩‍💻 Web Development student at triOS College  
