@@ -5,11 +5,11 @@
 
 Front-End Developer in Training | Web_With_Kate
 
-💻 Currently building my developer portfolio one project at a time
+💻 Currently building my developer portfolio one project at a time  
 🇬🇧 Welsh-born living in Canada since 2005  
-👩‍💻 Web Development student at triOS College  
+🎓 Web Development student at triOS College  
 🐶 Dog lover (Shaggy approved)  
-🎨 Passionate about UI/UX and clean, accessible design  
+🎨 Passionate about UI/UX and clean, accessible design
 HTML | CSS | JavaScript | Git | GitHub | VS Code | Figma
 ## Currently Learning
 - HTML
